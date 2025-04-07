@@ -1,6 +1,6 @@
 export const config = {
   site: {
-    title: "Nextjs Blog Template",
+    title: "My Awesome Blog",
     name: "Nextjs Blog Template",
     description: "Nextjs Blog Template",
     keywords: ["Nextjs Blog Template", "AI", "Full Stack Developer"],
@@ -30,7 +30,7 @@ export const config = {
     bio: "这是一个 Nextjs 博客模板",
   },
   social: {
-    github: "https://github.com/xxx",
+    github: "https://github.com/aidenhuanghl/nextjs-blog-hugo.git",
     x: "https://x.com/xxx",
     xiaohongshu: "https://www.xiaohongshu.com/user/profile/xxx",
     wechat: "https://storage.xxx.com/images/wechat-official-account.png",
